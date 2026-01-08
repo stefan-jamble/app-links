@@ -1,0 +1,30 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "co.jambleapp",
+            "sha256_cert_fingerprints": [
+                "C2:A1:F4:A6:E4:21:AA:F8:34:5A:03:32:E7:6B:99:B5:76:2C:FC:52:F3:83:52:64:B0:27:9B:C9:A4:1B:11:26",
+                "00:6D:EC:04:0C:7F:ED:94:B2:57:22:89:54:28:64:57:97:18:95:8F:8F:5C:29:37:8B:04:9B:42:C3:0A:31:83",
+                "68:08:08:81:31:20:19:B8:9B:B5:48:0A:2B:3D:96:76:62:28:03:4C:A5:5B:1F:F9:0A:D3:0C:62:96:E9:4D:41"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "co.jambleapp.staging",
+            "sha256_cert_fingerprints": [
+                "C2:A1:F4:A6:E4:21:AA:F8:34:5A:03:32:E7:6B:99:B5:76:2C:FC:52:F3:83:52:64:B0:27:9B:C9:A4:1B:11:26",
+                "00:6D:EC:04:0C:7F:ED:94:B2:57:22:89:54:28:64:57:97:18:95:8F:8F:5C:29:37:8B:04:9B:42:C3:0A:31:83",
+                "68:08:08:81:31:20:19:B8:9B:B5:48:0A:2B:3D:96:76:62:28:03:4C:A5:5B:1F:F9:0A:D3:0C:62:96:E9:4D:41"
+            ]
+        }
+    }
+]
